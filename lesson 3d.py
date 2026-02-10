@@ -10,3 +10,4 @@ elif(marks>70 and marks<=100):
     print("excellent")
 else:
     print("invalid marks")  
+    
