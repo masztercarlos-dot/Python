@@ -3,7 +3,6 @@ while count <= 10:
     print(count)
     # increment by 1
     count =count + 1
-
 # loop all odd numbers from 1 to 100
 
 count = 1
